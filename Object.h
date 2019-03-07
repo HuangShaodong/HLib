@@ -36,7 +36,7 @@ public:
     bool  operator == (const Object& obj) NO_EXCEPT;
     bool  operator != (const Object& obj) NO_EXCEPT;
 
-    virtual ~Object() NO_EXCEPT = 0;
+    virtual ~Object()  = 0;
 };
 
 } // namespace HLib

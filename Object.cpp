@@ -35,7 +35,7 @@ bool Object::operator != (const Object& obj) NO_EXCEPT
     return (this != &obj);
 }
 
-Object::~Object() NO_EXCEPT
+Object::~Object()
 {}
 
 } // namespace HLib
