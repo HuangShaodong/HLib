@@ -4,4 +4,10 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp
+    main.cpp \
+    Object.cpp \
+    Exception.cpp
+
+HEADERS += \
+    Object.h \
+    Exception.h
