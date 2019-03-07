@@ -11,3 +11,6 @@ SOURCES += \
 HEADERS += \
     Object.h \
     Exception.h \
+    Pointer.h \
+    UniquePointer.h \
+    SharedPointer.h
