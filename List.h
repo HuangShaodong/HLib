@@ -1,5 +1,5 @@
-#ifndef LIST_H
-#define LIST_H
+#ifndef HLIB_LIST_H
+#define HLIB_LIST_H
 
 #include "Object.h"
 
@@ -36,4 +36,4 @@ List<T>::List()
 
 } // namespace HLib
 
-#endif // LIST_H
+#endif // HLIB_LIST_H

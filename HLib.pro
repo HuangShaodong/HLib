@@ -15,4 +15,6 @@ HEADERS += \
     UniquePointer.h \
     SharedPointer.h \
     List.h \
-    SeqList.h
+    SeqList.h \
+    StaticSeqList.h \
+    DynamicSeqList.h

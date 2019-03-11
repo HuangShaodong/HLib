@@ -1,5 +1,5 @@
-#ifndef SEQLIST_H
-#define SEQLIST_H
+#ifndef HLIB_SEQLIST_H
+#define HLIB_SEQLIST_H
 
 #include "List.h"
 #include "Exception.h"
@@ -197,4 +197,4 @@ T SeqList<T>::operator [] (const int pos) const
 
 } // namespace HLib
 
-#endif // SEQLIST_H
+#endif // HLIB_SEQLIST_H
