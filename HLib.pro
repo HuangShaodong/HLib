@@ -13,4 +13,6 @@ HEADERS += \
     Exception.h \
     Pointer.h \
     UniquePointer.h \
-    SharedPointer.h
+    SharedPointer.h \
+    List.h \
+    SeqList.h

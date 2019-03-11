@@ -90,8 +90,6 @@ const T* Pointer<T>::getPtr() const NO_EXCEPT
 }
 
 
-
-
 } // namespace HLib
 
 #endif // HLIB_POINTER_H
