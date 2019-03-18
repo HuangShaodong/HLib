@@ -18,4 +18,5 @@ HEADERS += \
     SeqList.h \
     StaticSeqList.h \
     DynamicSeqList.h \
-    LinkList.h
+    LinkList.h \
+    DualLinkList.h
